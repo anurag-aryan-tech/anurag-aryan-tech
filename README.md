@@ -1,100 +1,44 @@
+![Header](https://img.freepik.com/premium-vector/programming-banner-colorful-design_460848-5518.jpg?w=1380)
+
 # 👋 Hey there! Welcome to my coding journey!
 
-<div align="center">
-
-**I'm Anurag Aryan** - a passionate student learning to code, documenting my growth, and building cool projects along the way! 🚀
-
-*Embracing the learning process, one line of code at a time.* 💻
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 🎯 Who Am I?
+## About Me
 
-I'm a beginner programmer with a genuine passion for learning. My mission is to master the fundamentals of programming while building real skills that actually matter. I believe in:
+💭 **Get feedback on my code**
 
-- ✨ **Honest Progress**: No fake achievements, just real learning
-- 🔄 **Consistency**: Small, steady steps beat sporadic bursts
-- 🛠️ **Learning by Doing**: Building projects while learning concepts
-- 🤝 **Community**: Growing together and helping others
+🚀 **Passionate about continuous learning and clean code**
 
----
+🎯 **Building projects to master DSA, Web Development, and Full-Stack Development**
 
-## 🔥 What I'm Learning
+**Feel free to reach out!**
 
-| Skill | Level | Status |
-|-------|-------|--------|
-| 🐍 **Python** | Intermediate | 🚀 Active |
-| 🧩 **Data Structures & Algorithms** | Beginner-Intermediate | 📚 Regular Practice |
-| 🌐 **Django Web Framework** | Beginner | 🌱 Exploring |
-| 🔧 **Git & GitHub** | Intermediate | ✅ Proficient |
+Whether you're also learning or want to share insights - I'd love to connect!
 
 ---
 
-## 📂 My Learning Ecosystem
+## 📚 Tech Stack & Skills
 
-### 🚀 Main Repositories
+### Backend
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+- ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-- **[AboutMe](https://github.com/anurag-aryan-tech/AboutMe)** - Get to know me! My interests, goals, and what drives me 💡
-- **[Coding-Journey](https://github.com/anurag-aryan-tech/Coding-Journey)** - My honest learning notes, mini-projects, and the real ups & downs 📖
-- **[Learning-Log](https://github.com/anurag-aryan-tech/Learning-Log)** - DSA practice, problem-solving approaches, and code solutions 💪
+### Frontend
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
-
-## 💡 My Learning Philosophy
-
-### 🎓 How I Work
-
-1. **Learn Fundamentals First** - Build strong foundations before jumping to advanced stuff
-2. **Practice Consistently** - Regular, focused practice beats cramming
-3. **Document Everything** - Writing helps consolidate knowledge
-4. **Build Projects** - Apply learning through real-world mini-projects
-5. **Get Feedback** - Open to learning from others
-
-### 📊 Current Focus Areas
-
-- 🐍 **Python Mastery**: Strengthening fundamentals and best practices
-- 🧠 **DSA Proficiency**: Solving problems to boost algorithmic thinking
-- 🌐 **Web Development**: Learning Django for full-stack capabilities
-- 🤖 **Problem-Solving**: Building a strong problem-solving mindset
-
----
-
-## 📈 My Learning Path
-
-```
-📍 Current Stage: Building Foundations
-
- Basics → Intermediate Skills → Projects → Advanced Concepts
-   ✅        🚀 (YOU ARE HERE)    🎯       🔮
-```
-
----
-
-## 🌟 Why My Repos Matter
-
-Unlike many GitHub profiles, I focus on **authentic learning documentation**:
-
-- ✍️ Real notes from my learning journey
-- 🔍 Detailed problem-solving approaches
-- 💪 Code improvements over time
-- 📚 Resources I actually found helpful
-- 🎯 Clear goals and progress tracking
-
----
-
-## 🤝 Let's Connect!
-
-I'm always excited to:
-
-- 💬 Discuss coding and learning strategies
-- 🙋 Help others starting their coding journey
-- 📚 Share resources and learning tips
-- 🤝 Collaborate on learning projects
-- 💭 Get feedback on my code
-
-**Feel free to reach out!** Whether you're also learning or want to share insights - I'd love to connect!
+### Tools & Platforms
+- ![GitHub](https://img.shields.io/badge/-GitHub-100000?style=flat-square&logo=github&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -110,10 +54,12 @@ I'm always excited to:
 ### Web Development
 - 🌐 [Django Official Docs](https://www.djangoproject.com/)
 - 📚 [MDN Web Docs](https://developer.mozilla.org/)
+- 🎨 [CSS Tricks](https://css-tricks.com/)
 
 ### General Learning
 - 🎯 [Roadmap.sh](https://roadmap.sh/) - Learning Paths
 - 📖 [Documentation Reading](https://docs.python.org/) - The Best Teacher!
+- 💻 [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ---
 
@@ -127,7 +73,7 @@ I'm always excited to:
 
 ## 💭 A Quick Message
 
-> "Every expert was once a beginner. The only difference is that they didn't give up." 
+> "Every expert was once a beginner. The only difference is that they didn't give up."
 >
 > I'm on that journey, and **I'd love to have you along for the ride!** 🚀
 
@@ -141,8 +87,10 @@ I'm always excited to:
 
 [⭐ Star this repo if you find it helpful!](https://github.com/anurag-aryan-tech/anurag-aryan-tech)
 
+</div>
+
 ---
 
-*Last Updated: 2025* | *Built with ❤️ and lots of ☕*
+*Last Updated: 2025*
 
-</div>
+*Built with ❤️ and lots of ☕*
