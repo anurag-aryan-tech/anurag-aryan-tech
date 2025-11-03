@@ -1,99 +1,111 @@
-# 👋 Hey there! Welcome to my coding journey!
+<!-- PROFILE README -->
+
+# 👋 Hey there! Welcome to my Coding Journey 🚀  
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=300&fit=crop" alt="Profile Banner" />
+
+  <!-- 🔹 Header GIF (boy coding) -->
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Boy Coding GIF" width="600"/>
+
+  <br/><br/>
+
+  <!-- 🔹 Typing animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Code.+Build.+Learn.+Repeat.;Becoming+a+Full+Stack+Developer.;Python+%7C+Django+%7C+DSA+%7C+Web+Dev" alt="Typing SVG" />
 </div>
 
 ---
 
-## About Me
+## 🧠 About Me  
 
-💭 **Get feedback on my code**  
-🚀 **Passionate about continuous learning and clean code**  
-🎯 **Building projects to master DSA, Web Development, and Full-Stack Development**  
-**Feel free to reach out!**  
-Whether you're also learning or want to share insights - I'd love to connect!
+💬 **Seeking constructive feedback to improve my code**  
+🚀 **Passionate about clean, maintainable architecture and lifelong learning**  
+🎯 **Currently mastering DSA, Web Development, and Full-Stack Engineering**  
+🤝 **Open to collaborations and idea exchanges**
+
+> 💡 “Every expert was once a beginner. The difference? They didn’t quit.”
 
 ---
 
-## 📦 Tech Stack & Skills
+## 🧰 Tech Stack  
 
 <div align="center">
 
-### Backend
+### ⚙️ Backend  
+<img src="https://skillicons.dev/icons?i=python,django,sqlite,mysql" height="60" />
 
-![Python](https://img.icons8.com/color/96/000000/python.png)
-![Django](https://img.icons8.com/color/96/000000/django.png)
-![SQL](https://img.icons8.com/color/96/000000/sql.png)
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" height="60" />
 
-### Frontend
-
-![JavaScript](https://img.icons8.com/color/96/000000/javascript.png)
-![HTML5](https://img.icons8.com/color/96/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/96/000000/css3.png)
-
-### Tools & Platforms
-
-![Git](https://img.icons8.com/color/96/000000/git.png)
-![GitHub](https://img.icons8.com/color/96/000000/github.png)
-![VS Code](https://img.icons8.com/color/96/000000/visual-studio-code-2019.png)
-![Jupyter](https://img.icons8.com/color/96/000000/jupyter.png)
+### 🧩 Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,postman" height="60" />
 
 </div>
 
 ---
 
-## 📚 Recommended Learning Resources
-
-*Resources that have helped me on my journey:*
-
-### Python & DSA
-
-- 📖 [LeetCode](https://leetcode.com/) - DSA Practice
-- 🎥 [GeeksforGeeks](https://www.geeksforgeeks.org/) - Concept Explanations
-- 💡 [HackerRank](https://www.hackerrank.com/) - Coding Challenges
-
-### Web Development
-
-- 🌐 [Django Official Docs](https://www.djangoproject.com/)
-- 📚 [MDN Web Docs](https://developer.mozilla.org/)
-- 🎨 [CSS Tricks](https://css-tricks.com/)
-
-### General Learning
-
-- 🎯 [Roadmap.sh](https://roadmap.sh/) - Learning Paths
-- 📖 [Documentation Reading](https://docs.python.org/) - The Best Teacher!
-- 💻 [FreeCodeCamp](https://www.freecodecamp.org/)
-
----
-
-## 🎁 Quick Stats
-
-- 🔥 Total Repositories: Learning Labs & Practice Projects
-- 💪 Current Streak: Consistent Daily Coding
-- 📈 Focus: Quality over Quantity
-
----
-
-## 💭 A Quick Message
-
-> "Every expert was once a beginner. The only difference is that they didn't give up."
->
-> I'm on that journey, and **I'd love to have you along for the ride!** 🚀
-
----
+## 📚 Learning Resources I Recommend  
 
 <div align="center">
+  <img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" width="320" alt="Learning GIF" />
+</div>
 
-### 🚀 Ready to start your coding journey too?
+### 🐍 Python & DSA  
+- 🧩 [LeetCode](https://leetcode.com/) — Practice structured DSA problems  
+- 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/) — Core concept explanations  
+- 💡 [HackerRank](https://www.hackerrank.com/) — Quick coding challenges  
 
-**Check out my repositories and let's learn together!**
+### 🌐 Web Development  
+- 🕸️ [Django Docs](https://docs.djangoproject.com/) — Official reference  
+- 📚 [MDN Web Docs](https://developer.mozilla.org/) — HTML, CSS, JS fundamentals  
+- 🎨 [CSS Tricks](https://css-tricks.com/) — Frontend best practices  
 
-🔗 [Main Profile](https://github.com/anurag-aryan-tech) | 📚 [Coding Journey](https://github.com/anurag-aryan-tech/Coding-Journey) | 📖 [Learning Log](https://github.com/anurag-aryan-tech/Learning-Log) | 👀 [About Me](https://github.com/anurag-aryan-tech/AboutMe)
+### 🧭 General Growth  
+- 🎯 [Roadmap.sh](https://roadmap.sh/) — Developer learning paths  
+- 💻 [FreeCodeCamp](https://www.freecodecamp.org/) — Hands-on lessons  
+- 📖 [Python Docs](https://docs.python.org/) — The ultimate Python reference  
 
 ---
 
-*Last Updated: 2025*  
-*Built with ❤️ and lots of ☕*
+## 📊 GitHub Stats  
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=anurag-aryan-tech&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=anurag-aryan-tech&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-aryan-tech&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+</div>
+
+---
+
+## 🧭 Current Focus  
+
+- 🔥 **Building Real Projects** — From small ideas to scalable apps  
+- 🧩 **Deepening DSA Understanding** — Quality over Quantity  
+- 🧠 **Consistency Tracker:** Daily Code • Learn • Build  
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1526378722484-bd91ca387e72?w=900&fit=crop&auto=format&q=85" width="80%" alt="Coding Setup" />
+</div>
+
+---
+
+## 💬 Let’s Connect!  
+
+<div align="center">
+  
+🌍 [**GitHub Profile**](https://github.com/anurag-aryan-tech) •  
+📘 [**Coding Journey Repo**](https://github.com/anurag-aryan-tech/Coding-Journey) •  
+🧾 [**Learning Log**](https://github.com/anurag-aryan-tech/Learning-Log) •  
+👤 [**About Me**](https://github.com/anurag-aryan-tech/AboutMe)
+
+<br/><br/>
+
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="350" alt="Developer Working GIF" />
+
+---
+
+🛠 *Last Updated: 2025*  
+💙 *Built with passion, patience, and plenty of ☕*  
 
 </div>
