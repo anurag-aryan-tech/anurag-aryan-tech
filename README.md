@@ -10,7 +10,7 @@
   <br/><br/>
 
   <!-- 🔹 Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Code.+Build.+Learn.+Repeat.;Becoming+a+Full+Stack+Developer.;Python+%7C+Django+%7C+DSA+%7C+Web+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Code.+Build.+Learn.+Repeat.;Becoming+a+Data+Scientist.;Python+%7C+Django+%7C+DSA+%7C+Web+Dev" alt="Typing SVG" />
 </div>
 
 ---
@@ -19,7 +19,7 @@
 
 💬 **Seeking constructive feedback to improve my code**  
 🚀 **Passionate about clean, maintainable architecture and lifelong learning**  
-🎯 **Currently mastering DSA, Web Development, and Full-Stack Engineering**  
+🎯 **Currently mastering DSA, Django, and Data Science**  
 🤝 **Open to collaborations and idea exchanges**
 
 > 💡 “Every expert was once a beginner. The difference? They didn’t quit.”
@@ -31,13 +31,20 @@
 <div align="center">
 
 ### ⚙️ Backend  
-<img src="https://skillicons.dev/icons?i=python,django,sqlite,mysql" height="60" />
+<img src="https://skillicons.dev/icons?i=python,django,mysql,mongodb" height="60"/>
 
-### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" height="60" />
+### 🔭 Data Science
+<img src="https://skillicons.dev/icons?i=python" height="60" />
+&nbsp;
+<img src="https://logo.svgcdn.com/l/numpy.png" width="60" height="60" />
+&nbsp;
+<img src="https://logo.svgcdn.com/logos/jupyter.png" width="60" height="60" />
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="60" height="60" /><br>
+<img src="https://logo.svgcdn.com/devicon/pandas-original.png" width="60" height="60" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="100" height="50" />
 
 ### 🧩 Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,postman" height="60" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="60" />
 
 </div>
 
@@ -66,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🏆 GitHub Stats
 
 <div align="center">
   
@@ -84,10 +91,7 @@
 - 🧩 **Deepening DSA Understanding** — Quality over Quantity  
 - 🧠 **Consistency Tracker:** Daily Code • Learn • Build  
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1526378722484-bd91ca387e72?w=900&fit=crop&auto=format&q=85" width="80%" alt="Coding Setup" />
-</div>
-
+<div class="tenor-gif-embed" data-postid="18657810" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/coding-gif-18657810">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ---
 
 ## 💬 Let’s Connect!  
@@ -100,7 +104,6 @@
 👤 [**About Me**](https://github.com/anurag-aryan-tech/AboutMe)
 
 <br/><br/>
-
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="350" alt="Developer Working GIF" />
 
 ---
