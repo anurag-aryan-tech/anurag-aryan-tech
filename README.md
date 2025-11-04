@@ -91,7 +91,6 @@
 - 🧩 **Deepening DSA Understanding** — Quality over Quantity  
 - 🧠 **Consistency Tracker:** Daily Code • Learn • Build  
 
-![Coding GIF](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
 ---
 
 ## 💬 Let’s Connect!  
