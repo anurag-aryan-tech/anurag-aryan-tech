@@ -29,11 +29,8 @@
 ## 🧰 Tech Stack  
 
 <div align="center">
-
-### ⚙️ Backend  
-<img src="https://skillicons.dev/icons?i=python,django,mysql,mongodb" height="60"/>
-
-### 🔭 Data Science
+  
+### 🔭 Data Science (Learning)
 <img src="https://skillicons.dev/icons?i=python" height="60" />
 &nbsp;
 <img src="https://logo.svgcdn.com/l/numpy.png" width="60" height="60" />
