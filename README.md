@@ -10,7 +10,7 @@
   <br/><br/>
 
   <!-- 🔹 Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Code.+Build.+Learn.+Repeat.;Becoming+a+Data+Scientist.;Python+%7C+Django+%7C+DSA+%7C+Web+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Code.+Build.+Learn.+Repeat.;Becoming+a+Data+Scientist.;Python+%7C+%7C+DSA+%7C+Web+Dev" alt="Typing SVG" />
 </div>
 
 ---
@@ -19,7 +19,7 @@
 
 💬 **Seeking constructive feedback to improve my code**  
 🚀 **Passionate about clean, maintainable architecture and lifelong learning**  
-🎯 **Currently mastering DSA, Django, and Data Science**  
+🎯 **Currently mastering DSA, and Data Science**  
 🤝 **Open to collaborations and idea exchanges**
 
 > 💡 “Every expert was once a beginner. The difference? They didn’t quit.”
@@ -57,11 +57,6 @@
 - 🧩 [LeetCode](https://leetcode.com/) — Practice structured DSA problems  
 - 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/) — Core concept explanations  
 - 💡 [HackerRank](https://www.hackerrank.com/) — Quick coding challenges  
-
-### 🌐 Web Development  
-- 🕸️ [Django Docs](https://docs.djangoproject.com/) — Official reference  
-- 📚 [MDN Web Docs](https://developer.mozilla.org/) — HTML, CSS, JS fundamentals  
-- 🎨 [CSS Tricks](https://css-tricks.com/) — Frontend best practices  
 
 ### 🧭 General Growth  
 - 🎯 [Roadmap.sh](https://roadmap.sh/) — Developer learning paths  
