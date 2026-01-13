@@ -74,9 +74,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag-aryan-tech&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://streak-stats.demolab.com/?user=anurag-aryan-tech&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-aryan-tech&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
 
