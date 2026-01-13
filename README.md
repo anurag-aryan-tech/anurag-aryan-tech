@@ -4,13 +4,8 @@
 
 <div align="center">
 
-  <!-- 🔹 Header GIF (boy coding) -->
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Boy Coding GIF" width="600"/>
-
-  <br/><br/>
-
   <!-- 🔹 Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Code.+Build.+Learn.+Repeat.;Becoming+a+Data+Scientist.;Python+%7C+%7C+DSA+%7C+Web+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Code.+Build.+Learn.+Repeat.;Becoming+a+Data+Scientist.;Python+%7C+%7C+DSA+%7C+Tkinter" alt="Typing SVG" />
 </div>
 
 ---
